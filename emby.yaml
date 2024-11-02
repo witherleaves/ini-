@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN,stream1.misakaf.org
-  - DOMAIN,stream2.misakaf.org
-  - DOMAIN,stream3.misakaf.org
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
