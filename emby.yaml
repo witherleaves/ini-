@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,stream1.misakaf.org
   - DOMAIN-KEYWORD,stream2.misakaf.org
   - DOMAIN-KEYWORD,stream3.misakaf.org
+  - DOMAIN-KEYWORD,misakaf.org
