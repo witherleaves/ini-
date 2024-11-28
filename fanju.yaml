@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-KEYWORD,vcb-s
-  - DOMAIN-KEYWORD,cycdm01.top
-  - DOMAIN-KEYWORD,share.dmhy.org
-  - DOMAIN-KEYWORD,bangumi.tv
-  - DOMAIN-KEYWORD,dick.xfani.com
-  - DOMAIN-KEYWORD,eatasmr.com
-  - DOMAIN-KEYWORD,asmr.one
+  - DOMAIN-SUFFIX,vcb-s
+  - DOMAIN-SUFFIX,cycdm01.top
+  - DOMAIN-SUFFIX,share.dmhy.org
+  - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,dick.xfani.com
+  - DOMAIN-SUFFIX,eatasmr.com
+  - DOMAIN-SUFFIX,asmr.one
 
