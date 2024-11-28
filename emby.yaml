@@ -3,3 +3,6 @@ payload:
   - DOMAIN-KEYWORD,stream2.misakaf.org
   - DOMAIN-KEYWORD,stream3.misakaf.org
   - DOMAIN-KEYWORD,misakaf.org
+  - DOMAIN-SUFFIX,hxd.as174.com
+  - DOMAIN-SUFFIX,cf.bili.rip
+  - DOMAIN-SUFFIX,emby.as174.com
