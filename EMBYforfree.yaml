@@ -8,8 +8,10 @@ payload:
   - DOMAIN-SUFFIX,sexemby.com
   - DOMAIN-SUFFIX,vfing.de
   - DOMAIN-SUFFIX,mobaiemby.site
-  - DOMAIN-SUFFIX,46.3.109.178
+  - IP-CIDR,46.3.109.178
   - DOMAIN-SUFFIX,lax4837.5203166.xyz
-  - DOMAIN-SUFFIX,211.159.153.75
+  - IP-CIDR,211.159.153.75
+  - IP-CIDR,101.42.181.91
   - DOMAIN-SUFFIX,luoti.wangdai.us
-  - DOMAIN-SUFFIX,random.ouonet.org
+  - DOMAIN-SUFFIX,sgfufu.5203166.xyz
+
