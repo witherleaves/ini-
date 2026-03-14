@@ -1,4 +1,4 @@
-payload:
+ payload:
   - DOMAIN-KEYWORD,stream2.misakaf.org
   - DOMAIN-KEYWORD,stream3.misakaf.org
   - DOMAIN-KEYWORD,misakaf.org
@@ -21,4 +21,4 @@ payload:
   - DOMAIN-SUFFIX,onyra.uk
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,mobaiemby.site
-  - DOMAIN-SUFFIX,sadchicktv.com
+  - DOMAIN-KEYWORD,sadchicktv.com
