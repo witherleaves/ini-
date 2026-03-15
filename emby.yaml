@@ -1,7 +1,7 @@
- payload:
-  - DOMAIN-KEYWORD,stream2.misakaf.org
-  - DOMAIN-KEYWORD,stream3.misakaf.org
-  - DOMAIN-KEYWORD,misakaf.org
+payload:
+  - DOMAIN,stream2.misakaf.org
+  - DOMAIN,stream3.misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,cf.bili.rip
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,hka-emby3.aliz.work
@@ -12,8 +12,8 @@
   - DOMAIN-SUFFIX,overseaplus.alphatvapp.top
   - DOMAIN-SUFFIX,hkb-emby2.aliz.work
   - DOMAIN-SUFFIX,hkb-emby.aliz.work
-  - DOMAIN-KEYWORD,emby.violet.run
-  - DOMAIN-KEYWORD,violet.5203166.xyz
+  - DOMAIN,emby.violet.run
+  - DOMAIN-SUFFIX,5203166.xyz
   - DOMAIN-SUFFIX,hxd.as174.de
   - DOMAIN-SUFFIX,91emby.5203166.xyz
   - DOMAIN-SUFFIX,fufuvip.violet.run
@@ -21,4 +21,4 @@
   - DOMAIN-SUFFIX,onyra.uk
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,mobaiemby.site
-  - DOMAIN-KEYWORD,sadchicktv.com
+  - DOMAIN-SUFFIX,sadchicktv.com
