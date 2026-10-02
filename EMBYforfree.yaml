@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,onetoken.sh
   - DOMAIN-SUFFIX,hezu.ink
   - DOMAIN-SUFFIX,zero.cat
+  - IP-CIDR,85.137.243.51/32
